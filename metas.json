@@ -1,0 +1,10 @@
+[
+  {
+    "value": "Correr",
+    "checked": true
+  },
+  {
+    "value": "Andar por 15 min",
+    "checked": false
+  }
+]
